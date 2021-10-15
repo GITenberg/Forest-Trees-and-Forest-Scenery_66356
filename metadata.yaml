@@ -1,0 +1,26 @@
+_repo: Forest-Trees-and-Forest-Scenery_66356
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schwarz, G. Frederick (George Frederick)
+    alias: Schwarz, George Frederick
+    birthdate: 1868
+    deathdate: 1931
+    gutenberg_agent_id: '53763'
+    url: http://www.gutenberg.org/2009/agents/53763
+description: ''
+gutenberg_issued: '2021-09-21'
+identifiers:
+  gutenberg: '66356'
+  lccn: '02000021'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Forests and forestry'
+- !lcsh 'Trees'
+- !lcc 'SD'
+- GITenberg
+title: Forest Trees and Forest Scenery
+url: http://www.gutenberg.org/ebooks/66356
