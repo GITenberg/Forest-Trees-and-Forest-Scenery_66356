@@ -1,5 +1,8 @@
 _repo: Forest-Trees-and-Forest-Scenery_66356
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66356-h/images/cover.jpg
 creator:
   author:
     agent_name: Schwarz, G. Frederick (George Frederick)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '53763'
     url: http://www.gutenberg.org/2009/agents/53763
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66356#Forest-Trees-and-Forest-Scenery
 gutenberg_issued: '2021-09-21'
 identifiers:
   gutenberg: '66356'
